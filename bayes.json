@@ -1,0 +1,22 @@
+{
+    "version": "0.3.8",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/signcl/bayes-releases/releases/download/v0.3.8/bayes_windows_386.zip",
+            "bin": [
+                "bayes.exe"
+            ],
+            "hash": "8cb2af3df22efa61ca543023eab95313e4906d151818cb4ebecff4fee6e8561b"
+        },
+        "64bit": {
+            "url": "https://github.com/signcl/bayes-releases/releases/download/v0.3.8/bayes_windows_amd64.zip",
+            "bin": [
+                "bayes.exe"
+            ],
+            "hash": "5c1ffa42661ba3d79dbae3aef9dd87be021c16e79ae941150a53e97b11c42e2b"
+        }
+    },
+    "homepage": "https://openbayes.com",
+    "license": "MIT",
+    "description": "CLI command-line tools for OpenBayes console"
+}

@@ -1,0 +1,7 @@
+  name: bayes
+  version: '0.3.6'
+  summary: OpenBayes CLI
+  description: CLI command-line tools for OpenBayes console
+  grade: stable
+  confinement: strict
+  

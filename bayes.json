@@ -1,19 +1,19 @@
 {
-    "version": "0.7.2",
+    "version": "0.7.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/signcl/bayes-releases/releases/download/v0.7.2/bayes_windows_386.zip",
+            "url": "https://github.com/signcl/bayes-releases/releases/download/v0.7.3/bayes_windows_386.zip",
             "bin": [
                 "bayes.exe"
             ],
-            "hash": "8be28bdfd65804eb368b708887560ed295f000ddc8e7d43a6b4a0f03fd093707"
+            "hash": "c136b7670f78fc273012da56fbd89e7486a8a70de455414323fd9d35e7b5fa05"
         },
         "64bit": {
-            "url": "https://github.com/signcl/bayes-releases/releases/download/v0.7.2/bayes_windows_amd64.zip",
+            "url": "https://github.com/signcl/bayes-releases/releases/download/v0.7.3/bayes_windows_amd64.zip",
             "bin": [
                 "bayes.exe"
             ],
-            "hash": "540eefb27e38052a3888afca1b840f9a0ffe810eaa9049826fd0d1b2b9bb040f"
+            "hash": "8c0396c1d6242fbeb06fd43e330ac89beaa44fb1772fe07a4e9b144db5c63a8d"
         }
     },
     "homepage": "https://openbayes.com",

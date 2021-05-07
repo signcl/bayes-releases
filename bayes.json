@@ -6,14 +6,14 @@
             "bin": [
                 "bayes.exe"
             ],
-            "hash": "de288ccf6c0ebac9bc51c8e7e70fd77c4e344ad062c2febe8e4778684c9f7a1e"
+            "hash": "56b391d8639504f493504fccd80b1b80b63139cb0dcb92b62159eeac0a159d4b"
         },
         "64bit": {
             "url": "https://github.com/signcl/bayes-releases/releases/download/v0.9.1/bayes_windows_amd64.zip",
             "bin": [
                 "bayes.exe"
             ],
-            "hash": "70b25dc87e6ef201174bb10e0dc62e21a2783f0d73e99a5a0f79e9c0b010385b"
+            "hash": "b5244cf89534b317a4b40fec419de7a8908dfa7349a1bb8883e9672f569adb58"
         }
     },
     "homepage": "https://openbayes.com",
